@@ -1,0 +1,7 @@
+{
+  "product_id": "program-security-app",
+  "owner": "artpkss",
+  "expiration_date": "2026-12-31",
+  "features": ["basic_access", "export_reports", "advanced_crypto"],
+  "license_id": "lic-2026-88392-xyz"
+}
